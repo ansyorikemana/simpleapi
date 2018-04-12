@@ -1,6 +1,6 @@
 {
     "name": "kemana/module-simpleapi",
-    "description": "test shipping kemana",
+    "description": "Kemana's Simple API Module",
     "version":"1.0.0-stable",
     "license": "GPL-3.0",
     "authors": [
