@@ -1,0 +1,21 @@
+{
+    "name": "kemana/module-simpleapi",
+    "description": "test shipping kemana",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kemana\\Simpleapi\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
